@@ -1,3 +1,1 @@
-echo "# alx-zero_day" >> up_to_date
-git init
-git add up_to_date
+git pull
